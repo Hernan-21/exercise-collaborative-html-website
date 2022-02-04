@@ -1,6 +1,7 @@
 body{
     background: #BDBDBD;
 }
+
 .img-fluid {
 
     object-fit: cover;
@@ -8,3 +9,5 @@ body{
     width: 200px;
     border-radius: 50%;
 }
+
+
