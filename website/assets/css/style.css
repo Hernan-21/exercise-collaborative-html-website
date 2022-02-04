@@ -1,12 +1,12 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
 }
 
-.img-fluid {
+.roundedimage {
 
     object-fit: cover;
-    height: 200px;
-    width: 200px;
+    height: 350px;
+    width: 350px;
     border-radius: 50%;
 }
 
